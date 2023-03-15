@@ -8,12 +8,12 @@
 ## 🛠 Languages and Tools:
 
 <div align="center">
-  <img align="center" alt="Java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Spring" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Java" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Spring" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <br></br>
   <img align="center" alt="MongoDB" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
