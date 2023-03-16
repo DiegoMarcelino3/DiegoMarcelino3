@@ -13,10 +13,7 @@
   <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <br></br>
-  <img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="GitHub" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
   <img align="center" alt="Git" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img align="center" alt="VsCode" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
